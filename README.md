@@ -20,8 +20,8 @@
 ## 📋 Table of Contents
 
 - [🎨 HTML & CSS Projects](#-html--css-projects)
-- [⚡ JavaScript Projects](#-javascript-projects)
-- [⚛️ React Projects](#️-react-projects)
+- [⚡ React JS Projects](#-react-js-projects)
+- [⚛️ React & Firebase Projects](#️-react--firebase-projects)
 - [🤖 AI & Machine Learning Projects](#-ai--machine-learning-projects)
 - [📱 Mobile-First Design](#-mobile-first-design)
 - [🛠️ Technologies Used](#️-technologies-used)
@@ -43,24 +43,25 @@
 
 ---
 
-## ⚡ JavaScript Projects
+## ⚡ React JS Projects
 
-| 🎯 Project                                                         | 🔗 Demo                                  | 📝 Description                                                                                                | 🛠️ Tech Stack                    |
-| ------------------------------------------------------------------ | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| **[Cat & Dog Image Viewer](https://github.com/devatikur1/our-ai)** | [Live Demo](https://our-ai.netlify.app/) | Fun app displaying random adorable cat and dog images from APIs with smooth transitions and download features | HTML, CSS, JavaScript, APIs      |
-| **[Chart.js Dashboard](#)**                                        | [Live Demo](#)                           | Interactive data visualization dashboard with multiple chart types, real-time updates, and responsive design  | HTML, CSS, JavaScript, Chart.js  |
-| **[YouTube Clone](#)**                                             | [Live Demo](#)                           | Full-featured YouTube clone with video search, playlists, and modern UI design                                | React, Tailwind CSS, YouTube API |
-| **[Bank Dashboard](#)**                                            | [Live Demo](#)                           | Modern banking dashboard with smooth animations, transaction tracking, and responsive design                  | React, Tailwind CSS, GSAP        |
+| 🎯 Project                                                                   | 🔗 Demo        | 📝 Description                                                                               | 🛠️ Tech Stack                    |
+| ---------------------------------------------------------------------------- | -------------- | -------------------------------------------------------------------------------------------- | -------------------------------- |
+| **[To-Do List in React](https://github.com/devatikur1/To-Do-List-in-react)** | [Live Demo](#) | Interactive todo list with add, edit, delete, and mark complete functionality                | React, Tailwind CSS              |
+| **[EMS (Employee Dashboard System)](https://github.com/devatikur1/-EMS)**    | [Live Demo](#) | Employee management system with dashboard, user profiles, and admin controls                 | React, Tailwind CSS              |
+| **[YouTube Clone (Videos)](https://github.com/devatikur1/video-s)**          | [Live Demo](#) | Full-featured YouTube clone with video search, playlists, and modern UI design               | React, Tailwind CSS, YouTube API |
+| **[Bank Dashboard](#)**                                                      | [Live Demo](#) | Modern banking dashboard with smooth animations, transaction tracking, and responsive design | React, Tailwind CSS, GSAP        |
 
 ---
 
-## ⚛️ React Projects
+## ⚛️ React & Firebase Projects
 
-| 🎯 Project                 | 🔗 Demo        | 📝 Description                              | 🛠️ Tech Stack                  |
-| -------------------------- | -------------- | ------------------------------------------- | ------------------------------ |
-| **[Portfolio Website](#)** | [Live Demo](#) | Professional portfolio built with React     | React, Tailwind CSS, Bootstrap |
-| **[Chat Application](#)**  | [Live Demo](#) | Real-time chat with Firebase authentication | React, Firebase, Tailwind CSS  |
-| **[Skiper Project](#)**    | [Live Demo](#) | Modern web application with React           | React, Tailwind CSS, Firebase  |
+| 🎯 Project                                                 | 🔗 Demo                                  | 📝 Description                                                                        | 🛠️ Tech Stack                  |
+| ---------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------ |
+| **[Imagery Gallery](https://github.com/devatikur1/img-1)** | [Live Demo](https://imagary.vercel.app/) | Unsplash clone with React featuring image search, filtering, and Firebase integration | React, Tailwind CSS, Firebase  |
+| **[Portfolio Website](#)**                                 | [Live Demo](#)                           | Professional portfolio built with React                                               | React, Tailwind CSS, Bootstrap |
+| **[Chat Application](#)**                                  | [Live Demo](#)                           | Real-time chat with Firebase authentication                                           | React, Firebase, Tailwind CSS  |
+| **[Skiper Project](#)**                                    | [Live Demo](#)                           | Modern web application with React                                                     | React, Tailwind CSS, Firebase  |
 
 ---
 
