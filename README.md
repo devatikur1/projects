@@ -19,33 +19,38 @@
 
 ## 📋 Table of Contents
 
-- 🎨 [HTML & CSS Projects](#-html--css-projects)
-- ⚡[JavaScript Projects](#-javascript-projects)
-- ⚛️ [React Projects](#️-react-projects)
-- 🤖 [AI & Machine Learning Projects](#-ai--machine-learning-projects)
-- 🛠️ [Technologies Used](#️-technologies-used)
-- 🚀 [Getting Started](#-getting-started)
+- [🎨 HTML & CSS Projects](#-html--css-projects)
+- [⚡ JavaScript Projects](#-javascript-projects)
+- [⚛️ React Projects](#️-react-projects)
+- [🤖 AI & Machine Learning Projects](#-ai--machine-learning-projects)
+- [📱 Mobile-First Design](#-mobile-first-design)
+- [🛠️ Technologies Used](#️-technologies-used)
+- [🚀 Getting Started](#-getting-started)
+- [📞 Contact](#-contact)
 
 ---
 
 ## 🎨 HTML & CSS Projects
 
-| 🎯 Project                                                             | 🔗 Demo                                                     | 📝 Description                                                                                                                          | 🛠️ Tech Stack         |
-| ---------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| **[Animated Portfolio](https://github.com/devatikur1/atikur)**         | [Live Demo](https://devatikur1.github.io/atikur/)           | Personal portfolio website with stunning animations, smooth transitions, and interactive elements showcasing my web development journey | HTML, CSS, JavaScript |
-| **[Image Downloader](https://github.com/devatikur1/Image-Downloader)** | [Live Demo](https://devatikur1.github.io/Image-Downloader/) | Powerful tool to download images from any URL with preview, batch download, and drag-drop functionality                                 | HTML, CSS, JavaScript |
-| **[Donate Website](https://github.com/devatikur1/donate)**             | [Live Demo](https://devatikur1.github.io/donate/)           | Charity donation platform with secure payment integration, donor tracking, and responsive design for fundraising campaigns              | HTML, CSS, JavaScript |
+| 🎯 Project                                                                              | 🔗 Demo                                                             | 📝 Description                                                                                                                          | 🛠️ Tech Stack         |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| **[Animated Portfolio](https://github.com/devatikur1/atikur)**                          | [Live Demo](https://devatikur1.github.io/atikur/)                   | Personal portfolio website with stunning animations, smooth transitions, and interactive elements showcasing my web development journey | HTML, CSS, JavaScript |
+| **[Image Downloader](https://github.com/devatikur1/Image-Downloader)**                  | [Live Demo](https://devatikur1.github.io/Image-Downloader/)         | Powerful tool to download images from any URL with preview, batch download, and drag-drop functionality                                 | HTML, CSS, JavaScript |
+| **[Donate Website](https://github.com/devatikur1/donate)**                              | [Live Demo](https://devatikur1.github.io/donate/)                   | Charity donation platform with secure payment integration, donor tracking, and responsive design for fundraising campaigns              | HTML, CSS, JavaScript |
+| **[ChatBot UI](https://github.com/devatikur1/ChatBot)**                                 | [Live Demo](https://devatikur1.github.io/ChatBot/)                  | Modern chatbot interface with smooth animations, typing effects, and responsive design for seamless conversations                       | HTML, CSS, JavaScript |
+| **[Drag & Drop File Uploader](https://github.com/devatikur1/Drag-Drop-to-Upload-File)** | [Live Demo](https://devatikur1.github.io/Drag-Drop-to-Upload-File/) | Interactive file upload tool with drag-and-drop functionality, progress tracking, and multiple file format support                      | HTML, CSS, JavaScript |
+| **[Imagery Gallery](https://github.com/devatikur1/Imagery)**                            | [Live Demo](https://devatikur1.github.io/Imagery/)                  | Beautiful image gallery website inspired by Unsplash with search, filtering, and high-quality image display                             | HTML, CSS, JavaScript |
 
 ---
 
 ## ⚡ JavaScript Projects
 
-| 🎯 Project                      | 🔗 Demo        | 📝 Description                                                                                                | 🛠️ Tech Stack                    |
-| ------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| 🎯 Project                                                         | 🔗 Demo                                  | 📝 Description                                                                                                | 🛠️ Tech Stack                    |
+| ------------------------------------------------------------------ | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | **[Cat & Dog Image Viewer](https://github.com/devatikur1/our-ai)** | [Live Demo](https://our-ai.netlify.app/) | Fun app displaying random adorable cat and dog images from APIs with smooth transitions and download features | HTML, CSS, JavaScript, APIs      |
-| **[Chart.js Dashboard](#)**     | [Live Demo](#) | Interactive data visualization dashboard with multiple chart types, real-time updates, and responsive design  | HTML, CSS, JavaScript, Chart.js  |
-| **[YouTube Clone](#)**          | [Live Demo](#) | Full-featured YouTube clone with video search, playlists, and modern UI design                                | React, Tailwind CSS, YouTube API |
-| **[Bank Dashboard](#)**         | [Live Demo](#) | Modern banking dashboard with smooth animations, transaction tracking, and responsive design                  | React, Tailwind CSS, GSAP        |
+| **[Chart.js Dashboard](#)**                                        | [Live Demo](#)                           | Interactive data visualization dashboard with multiple chart types, real-time updates, and responsive design  | HTML, CSS, JavaScript, Chart.js  |
+| **[YouTube Clone](#)**                                             | [Live Demo](#)                           | Full-featured YouTube clone with video search, playlists, and modern UI design                                | React, Tailwind CSS, YouTube API |
+| **[Bank Dashboard](#)**                                            | [Live Demo](#)                           | Modern banking dashboard with smooth animations, transaction tracking, and responsive design                  | React, Tailwind CSS, GSAP        |
 
 ---
 
@@ -150,6 +155,34 @@ All projects are built with a **mobile-first approach** ensuring:
 
 4. **Open your browser**
    Navigate to `http://localhost:3000` (or the port shown in terminal)
+
+### For Static HTML Projects
+
+Simply open the `index.html` file in your browser or use a local server:
+
+```bash
+# Using Python
+python -m http.server 8000
+
+# Using Node.js
+npx serve .
+```
+
+---
+
+## 📞 Contact
+
+<div align="center">
+  <p>💡 <strong>Have a question or want to collaborate?</strong></p>
+  <p>Feel free to reach out!</p>
+  
+  <a href="https://github.com/devatikur1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
 ---
 
