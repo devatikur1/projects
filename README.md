@@ -42,7 +42,7 @@
 
 | 🎯 Project                      | 🔗 Demo        | 📝 Description                                                                                                | 🛠️ Tech Stack                    |
 | ------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| **[Cat & Dog Image Viewer](#)** | [Live Demo](#) | Fun app displaying random adorable cat and dog images from APIs with smooth transitions and download features | HTML, CSS, JavaScript, APIs      |
+| **[Cat & Dog Image Viewer](https://github.com/devatikur1/our-ai)** | [Live Demo](https://github.com/devatikur1/our-ai) | Fun app displaying random adorable cat and dog images from APIs with smooth transitions and download features | HTML, CSS, JavaScript, APIs      |
 | **[Chart.js Dashboard](#)**     | [Live Demo](#) | Interactive data visualization dashboard with multiple chart types, real-time updates, and responsive design  | HTML, CSS, JavaScript, Chart.js  |
 | **[YouTube Clone](#)**          | [Live Demo](#) | Full-featured YouTube clone with video search, playlists, and modern UI design                                | React, Tailwind CSS, YouTube API |
 | **[Bank Dashboard](#)**         | [Live Demo](#) | Modern banking dashboard with smooth animations, transaction tracking, and responsive design                  | React, Tailwind CSS, GSAP        |
