@@ -22,7 +22,7 @@
 ## 📋 Table of Contents
 
 * 🎨 [HTML, CSS & JavaScript Projects](#-html-css--js-projects)
-* 🔥 [React JS & Firebase ProjectsReact JS & Firebase Projects](#-react--firebase-projects)
+* 🔥 [React JS & Firebase Projects](#-react--firebase-projects)
 * 📱 [Mobile-First Design](#-mobile-first-design)
 * 🚀 [Getting Started](#-getting-started)
 * 📞 [Contact](#-contact)
