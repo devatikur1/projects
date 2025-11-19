@@ -22,7 +22,7 @@
 ## 📋 Table of Contents
 
 * 🎨 [HTML, CSS & JavaScript Projects](#-html-css--js-projects)
-* 🔥 [React JS & Firebase Projects](#-react--firebase-projects)
+* 🔥 [React JS & Firebase ProjectsReact JS & Firebase Projects](#-react--firebase-projects)
 * 📱 [Mobile-First Design](#-mobile-first-design)
 * 🚀 [Getting Started](#-getting-started)
 * 📞 [Contact](#-contact)
@@ -37,7 +37,7 @@
 | **Drag & Drop Uploader**            | [Live Demo](https://devatikur1.github.io/Drag-Drop-to-Upload-File/) | HTML, CSS                  |
 | **Avifiles**                        | [Live Demo](https://devatikur1.github.io/avifiles/)                 | HTML, CSS                  |
 | **Info Sent**                       | [Live Demo](https://devatikur1.github.io/info-sent/)                | HTML, CSS                  |
-| **Recipe**                          | [Live Demo](https://devatikur1.github.io/recipe/)                   | HTML, CSS, JavaScript     |
+| **Recipe**                          | [Live Demo](https://devatikur1.github.io/recipe/)                   | HTML, CSS, JavaScript      |
 | **Donate Website `(donate)`**       | [Live Demo](https://devatikur1.github.io/donate/)                   | HTML, CSS, JavaScript      |
 | **Animated Portfolio `(atikur)`**   | [Live Demo](https://devatikur1.github.io/atikur/)                   | HTML, CSS, JavaScript      |
 | **Image Downloader**                | [Live Demo](https://devatikur1.github.io/Image-Downloader/)         | HTML, CSS, JavaScript      |
@@ -48,10 +48,10 @@
 
 ## 🔥 React JS & Firebase Projects
 
-| 🎯 Project         | 🔗 Demo                                    | 🛠️ Tech Stack               |
-| ---------------------------------- | -----------------------------------------------  | -------------------------------------------------------- |
+| 🎯 Project                         | 🔗 Demo                                         | 🛠️ Tech Stack                                              |
+| ---------------------------------- | -----------------------------------------------  | ----------------------------------------------------------- |
 | **To-Do List**                     | [Live Demo](https://to-do-list-dev.vercel.app/)  | React Js, CSS                                               |
-| **EMS Dashboard**                  | —                                                | React Js, Tailwind, Tailwind                                |
+| **EMS Dashboard**                  | [Live Demo](https://ems-dev.vercel.app/)         | React Js, Tailwind, Tailwind                                |
 | **Unsplash Clone `(Imagary)`**     | [Live Demo](https://imagary.vercel.app/)         | React Js, Tailwind, Firebase                                |
 | **Gemini Clone `(Lonas)`**         | [Live Demo](https://lonas.vercel.app/)           | React Js, Tailwind, Firebase, Gemini Api                    |
 | **Youtube Clone `(Ysome)`**        | [Live Demo](https://ysome.vercel.app)            | React Js, Tailwind,  Firebase, Youtube Api, Rapidapi        |
