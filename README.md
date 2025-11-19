@@ -34,6 +34,9 @@
 | ----------------------------------- | ------------------------------------------------------------------- | -------------------------- |
 | **ChatBot UI**                      | [Live Demo](https://devatikur1.github.io/ChatBot/)                  | HTML, CSS                  |
 | **Drag & Drop Uploader**            | [Live Demo](https://devatikur1.github.io/Drag-Drop-to-Upload-File/) | HTML, CSS                  |
+| **Avifiles**                        | [Live Demo](https://devatikur1.github.io/avifiles/)                 | HTML, CSS                  |
+| **Info Sent**                       | [Live Demo](https://devatikur1.github.io/info-sent/)                | HTML, CSS                  |
+| **Recipe**                          | [Live Demo](https://devatikur1.github.io/recipe/)                   | HTML, CSS, JavaScript      |
 | **Donate Website `(donate)`**       | [Live Demo](https://devatikur1.github.io/donate/)                   | HTML, CSS, JavaScript      |
 | **Animated Portfolio `(atikur)`**   | [Live Demo](https://devatikur1.github.io/atikur/)                   | HTML, CSS, JavaScript      |
 | **Image Downloader**                | [Live Demo](https://devatikur1.github.io/Image-Downloader/)         | HTML, CSS, JavaScript      |
