@@ -41,7 +41,7 @@
 | **Donate Website `(donate)`**       | [Live Demo](https://devatikur1.github.io/donate/)                   | HTML, CSS, JavaScript      |
 | **Animated Portfolio `(atikur)`**   | [Live Demo](https://devatikur1.github.io/atikur/)                   | HTML, CSS, JavaScript      |
 | **Image Downloader**                | [Live Demo](https://devatikur1.github.io/Image-Downloader/)         | HTML, CSS, JavaScript      |
-| **Imagery `(1)`**                   | [Live Demo](https://devatikur1.github.io/Imagery/)                  | HTML, CSS, JavaScript      |
+| **Imagery**                         | [Live Demo](https://devatikur1.github.io/Imagery/)                  | HTML, CSS, JavaScript      |
 | **AI Image Generator `(our-ai)`**   | [Live Demo](https://our-ai.netlify.app/)                            | HTML, CSS, JavaScript      |
 
 ---
