@@ -22,7 +22,7 @@
 ## 📋 Table of Contents
 
 * 🎨 [HTML, CSS & JavaScript Projects](#-html-css--js-projects)
-* 🔥 [React JS & Firebase Projects](#-react--firebase-projects)
+* 🔥 [React JS & Firebase Projects](#-react-js--firebase-projects)
 * 📱 [Mobile-First Design](#-mobile-first-design)
 * 🚀 [Getting Started](#-getting-started)
 * 📞 [Contact](#-contact)
@@ -67,26 +67,6 @@ All projects follow:
 * Clean & modern UI
 * Accessibility-friendly
 * Cross-browser support
-
----
-
-## 🛠️ Technologies Used
-
-### Frontend
-
-HTML5, CSS3, JavaScript (ES6+), React, Bootstrap, Tailwind CSS
-
-### Styling & UI
-
-GSAP, Motion, Font Awesome, Flexbox, CSS Grid
-
-### APIs & Services
-
-Firebase, YouTube API, AI Image APIs, Chart.js
-
-### Dev Tools
-
-Vite, ESLint, PostCSS, Git
 
 ---
 
