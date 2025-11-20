@@ -93,6 +93,8 @@ yarn install
 npm run dev
 # or
 yarn dev
+# and
+npm start
 ```
 
 ### 4️⃣ Open in browser
