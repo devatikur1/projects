@@ -51,7 +51,7 @@
 | 🎯 Project                         | 🔗 Demo                                         | 🛠️ Tech Stack                                              |
 | ---------------------------------- | -----------------------------------------------  | ----------------------------------------------------------- |
 | **To-Do List**                     | [Live Demo](https://to-do-list-dev.vercel.app/)  | React Js, CSS                                               |
-| **EMS Dashboard**                  | [Live Demo](https://ems-dev.vercel.app/)         | React Js, Tailwind, Tailwind                                |
+| **EMS Dashboard**                  | [Live Demo](https://ems-dev.vercel.app/)         | React Js, Tailwind                                |
 | **Unsplash Clone `(Imagary)`**     | [Live Demo](https://imagary.vercel.app/)         | React Js, Tailwind, Firebase                                |
 | **Gemini Clone `(Lonas)`**         | [Live Demo](https://lonas.vercel.app/)           | React Js, Tailwind, Firebase, Gemini Api                    |
 | **Youtube Clone `(Ysome)`**        | [Live Demo](https://ysome.vercel.app)            | React Js, Tailwind,  Firebase, Youtube Api, Rapidapi        |
